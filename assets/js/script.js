@@ -1,5 +1,9 @@
 // TODO: Declare any global variables we need
 
+let pennyTails = 0;
+let pennyHeads = 0;
+
+
 
 document.addEventListener('DOMContentLoaded', function () {
     // This is just a sanity check to make sure your JavaScript script is getting loaded
